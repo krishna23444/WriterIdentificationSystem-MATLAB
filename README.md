@@ -1,6 +1,5 @@
 # WRITER IDENTIFICATION SYSTEM
 
-# Project Summary 
 
 Handwriting recognition is one of the important areas in image processing.
 
