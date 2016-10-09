@@ -1,6 +1,4 @@
-# FinalYearProject
-
-WRITER IDENTIFICATION SYSTEM
+# WRITER IDENTIFICATION SYSTEM
 
 # Project Summary 
 
